@@ -36,5 +36,3 @@ postgres:
   environment:
     - POSTGRES_USER=postgres
     - POSTGRES_PASSWORD=postgres
-
-/home/sunlight/Work/swagger-ui.jpg
