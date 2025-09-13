@@ -1,10 +1,10 @@
-# 📄 Invoice Management System
+# Invoice Management System
 
 A production-grade CRUD application built with **Java + Spring Boot** that manages invoices, line items, and payments. Designed for scalability, maintainability, and real-world deployment.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Create Invoices**: Add customer details and multiple line items (description, price).
 - **Read/Search Invoices**: View all invoices or search by customer name.
@@ -14,7 +14,7 @@ A production-grade CRUD application built with **Java + Spring Boot** that manag
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Java 17**
 - **Spring Boot 3**
@@ -26,7 +26,7 @@ A production-grade CRUD application built with **Java + Spring Boot** that manag
 
 ---
 
-## 🗃️ Database Setup (Docker)
+## Database Setup (Docker)
 
 ```yaml
 postgres:
@@ -36,3 +36,5 @@ postgres:
   environment:
     - POSTGRES_USER=postgres
     - POSTGRES_PASSWORD=postgres
+
+/home/sunlight/Work/swagger-ui.jpg
